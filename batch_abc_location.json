@@ -1,0 +1,8 @@
+{
+    "env":[
+        {
+            "SCRIPT_PATH" : "YOUR/PATH/HERE"
+        }
+    ]
+
+}
