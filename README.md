@@ -5,6 +5,8 @@ You can specify your own material attribute name or use Houdini's default attrib
 
 Tested in Houdini 20.5, but it should work with previous versions.
 
+Note: The script only works with arnold render atm, I'll add support for other render engines soon.
+
 ## Installation ##
 
 Choose your preferred path to store your scripts.
